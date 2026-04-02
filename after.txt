@@ -1,0 +1,9 @@
+All loops 
+for loops 
+while loop 
+do while loop 
+nested loop 
+if/else (Condition)
+if else 
+elseif 
+nestedif
